@@ -11,7 +11,7 @@
   left: 0;
   height: 100%;
   width: 260px;
-  background: #ffa505;
+  background: #F1C93B;
   z-index: 100;
   transition: all 0.5s ease;
 }
@@ -61,7 +61,7 @@
   transition: all 0.4s ease;
 }
 .sidebar .nav-links li:hover{
-  background: #ffc905;
+  background: #61af61;
 }
 .sidebar .nav-links li .iocn-link{
   display: flex;
@@ -105,7 +105,7 @@
 .sidebar .nav-links li .sub-menu{
   padding: 6px 6px 14px 80px;
   margin-top: 0;
-  background: #ffc905;
+  background: #65C18C;
   display: none;
 }
 .sidebar .nav-links li.showMenu .sub-menu{
@@ -166,7 +166,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #ffc905;
+  background: #65C18C;
   padding: 12px 0;
   transition: all 0.5s ease;
 }
@@ -186,7 +186,7 @@
   object-fit: cover;
   border-radius: 16px;
   margin: 0 14px 0 12px;
-  background: #ffc905;
+  background: #61af61;
   transition: all 0.5s ease;
 }
 .sidebar.close .profile-details img{
@@ -226,7 +226,7 @@
 }
 .home-section .home-content .bx-menu,
 .home-section .home-content .text{
-  color: #340424;
+  color: #070205;
   font-size: 35px;
 }
 .home-section .home-content .bx-menu{
@@ -267,7 +267,7 @@
 .content h2 {
   font-size: 36px;
   margin-bottom: 20px;
-  color: #f0cd07; 
+  color: #070205; 
 }
 
 .content p {
@@ -276,24 +276,10 @@
   text-align: justify;
 }
 
-.body {
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-.table {
-      margin: auto;
-    }
-.td {
-      padding: 10px;
-      border: 2px solid black;
-      border-color: #f0cd07;
-    }
 .btn {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #ffc905; 
+  background-color: #AC094C; 
   color: #fff;
   text-decoration: none;
   transition: background-color 0.3s;
@@ -303,14 +289,14 @@
   background-color: #8E0739; 
 }
 header {
-  background-color: #f0cd07; 
+  background-color: #5A062F; 
   color: #fff;
   padding: 0px 0%;
   text-align: center;
   font-size: 12px;
 }
 footer {
-  background-color: #f0cd07; 
+  background-color: #5A062F; 
   color: #fff;
   padding: 20px;
   text-align: center;
