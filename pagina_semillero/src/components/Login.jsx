@@ -20,7 +20,7 @@ export const Login = () => {
             rel="stylesheet"
           ></link>
           <nav className="navbar">
-            <a href="http://localhost:3000">Inicio</a>
+            <a href="">Inicio</a>
             <a href="https://www.instagram.com/ing.ist.ucp/">Contactanos</a>
             <a href="#" onClick={toggleModal}>
               Información
