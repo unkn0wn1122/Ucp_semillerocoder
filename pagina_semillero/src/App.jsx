@@ -1,7 +1,8 @@
 import { useState } from 'react'
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import { Login} from './components/Login';
-import Dashboard from './components/Dashboard';
+import { Login} from './componentes/Login';
+import Dashboard from './componentes/Dashboard';
+
 
 const App = () => {
   return (
