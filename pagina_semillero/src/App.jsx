@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { Login} from './componentes/Login';
 import Dashboard from './componentes/Dashboard';
 
+
 const App = () => {
   return (
     <Router>
@@ -15,4 +16,3 @@ const App = () => {
 };
 
 export default App;
-

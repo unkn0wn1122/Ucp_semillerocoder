@@ -58,4 +58,6 @@ export default function Modal({ modalVisible, toggleModal }) {
       )}
     </>
   );
+
 }
+
